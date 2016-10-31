@@ -17,7 +17,7 @@ namespace SchedulerService
     public class SchedulerService
     {
         #region Nested classes to support running as service
-        public const string ServiceName = "IPS_Scheduler";
+        public const string ServiceName = "IPS Job Scheduler";
         public const string CurrentVersion = "0.01";
 
         // Grab the Scheduler instance from the Factory 
